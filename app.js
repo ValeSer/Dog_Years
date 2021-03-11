@@ -5,3 +5,6 @@ const myAge = 36
 let earlyYears = 2
 
 earlyYears = earlyYears * 10.5
+
+// we already accounted for the first two years, so we substract 2 to myAge
+let laterYears = myAge - 2
