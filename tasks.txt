@@ -6,3 +6,7 @@
 
 3. Use the multiplication assignment operator to multiply the value saved to earlyYears by 10.5 
     and reassign it to earlyYears
+
+4.Since we already accounted for the first two years, take the myAge variable, and subtract 2 from it.
+    Set the result equal to a variable called laterYears. We’ll be changing this value later.
+    Write a comment that explains this line of code.
