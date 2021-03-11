@@ -10,3 +10,6 @@
 4.Since we already accounted for the first two years, take the myAge variable, and subtract 2 from it.
     Set the result equal to a variable called laterYears. We’ll be changing this value later.
     Write a comment that explains this line of code.
+
+5. Multiply the laterYears variable by 4 to calculate the number of dog years accounted for by your later years. Use the multiplication assignment operator to multiply and assign in one step.
+    Write a comment that explains this line of code.
