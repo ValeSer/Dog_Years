@@ -1,0 +1,2 @@
+1.Create a variable named myAge, and set it equal to your age as a number.  
+    Write a comment that explains this line of code.
