@@ -18,3 +18,6 @@ console.log(laterYears);
 
 //sum of the 2 years to get my age in dog years
 myAgeInDogYears = earlyYears + laterYears
+
+// My name will be returned in lower case
+const myName = 'Valeria'.toLowerCase();
