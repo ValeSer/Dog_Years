@@ -16,3 +16,6 @@
 
 6. If you’d like to check your work at this point, print earlyYears and laterYears to the console. Are the values what you expected?
     Check off this task when you’re ready to move on.
+
+7.  Add earlyYears and laterYears together, and store that in a variable named myAgeInDogYears.
+    Write a comment that explains this line of code.
