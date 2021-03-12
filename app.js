@@ -12,3 +12,6 @@ let laterYears = myAge - 2
 //calculate the number of dog years accounted for by your later years
 //Use the multiplication assignment operator to multiply and assign in one step
 laterYears *= 4;
+
+console.log(earlyYears);
+console.log(laterYears);
