@@ -15,3 +15,6 @@ laterYears *= 4;
 
 console.log(earlyYears);
 console.log(laterYears);
+
+//sum of the 2 years to get my age in dog years
+myAgeInDogYears = earlyYears + laterYears
