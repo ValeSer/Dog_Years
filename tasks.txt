@@ -13,3 +13,6 @@
 
 5. Multiply the laterYears variable by 4 to calculate the number of dog years accounted for by your later years. Use the multiplication assignment operator to multiply and assign in one step.
     Write a comment that explains this line of code.
+
+6. If you’d like to check your work at this point, print earlyYears and laterYears to the console. Are the values what you expected?
+    Check off this task when you’re ready to move on.
